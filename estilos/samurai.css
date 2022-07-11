@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+#yuna_espirito{
+    display: -webkit-box;
+}
+
+#poderyuna{
+    margin: 19px;
+    font-family: "fogo";
+    font-size: 4em;
+    color: #f1ebf7;
+}
+
+.statuss{
+    display: inline-block;
+    margin: 20px;
+    padding-left: 175px;
+}
+.linkyunaposuida{
+    display: contents;
+}
+
